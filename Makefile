@@ -1,1 +1,1 @@
-conflit
+text
